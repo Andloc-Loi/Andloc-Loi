@@ -23,4 +23,8 @@ Atualmente atuo como Scrum Master Júnior na Biztrip, uma empresa de tecnologia 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/Andloc-Loi/Andloc-Loi/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andloc-Loi/Andloc-Loi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andloc-Loi/Andloc-Loi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Andloc-Loi/Andloc-Loi/output/github-snake.svg" />
+</picture>
